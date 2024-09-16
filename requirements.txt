@@ -1,0 +1,11 @@
+requests>=2.18.4
+requests-cache~=0.7.0
+easydict
+urllib3
+lxml
+chembl_webresource_client
+rdkit
+
+
+# pip install -r requirements.txt
+# source myenv/Scripts/activate

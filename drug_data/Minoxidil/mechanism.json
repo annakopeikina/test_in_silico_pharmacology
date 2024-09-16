@@ -1,0 +1,20 @@
+{
+    "action_type": "OPENER",
+    "binding_site_comment": "SUR2 is binding site",
+    "direct_interaction": "1",
+    "disease_efficacy": "1",
+    "max_phase": "4",
+    "mec_id": "1229",
+    "mechanism_of_action": "Sulfonylurea receptor 2, Kir6.2 opener",
+    "ref_id": "11886528",
+    "ref_type": "PubMed",
+    "ref_url": "http://europepmc.org/abstract/MED/11886528",
+    "molecular_mechanism": "1",
+    "molecule_chembl_id": "CHEMBL802",
+    "parent_molecule_chembl_id": "CHEMBL802",
+    "record_id": "1343290",
+    "site_id": "2655",
+    "target_chembl_id": "CHEMBL2095198",
+    "limit": "20",
+    "total_count": "1"
+}

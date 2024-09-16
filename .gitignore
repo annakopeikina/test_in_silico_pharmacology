@@ -1,0 +1,47 @@
+# Виртуальное окружение
+myenv/
+venv/
+env/
+ENV/
+
+# PyCharm
+.idea/
+
+# Модули Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Директории и файлы для систем сборки
+build/
+dist/
+*.egg-info/
+*.egg
+*.log
+
+# Конфиденциальные файлы
+*.env
+*.secret
+
+# Макеты и временные файлы
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Файлы кэша и состояния
+*.cache
+*.coverage
+*.coverage.*
+nosetests.xml
+coverage.xml
+
+# Другие
+*.DS_Store
+*.directory
+*.vscode/

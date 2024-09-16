@@ -1,0 +1,28 @@
+{
+    "molecule_chembl_id": "CHEMBL6329",
+    "molecule_properties": {
+        "alogp": "2.11",
+        "aromatic_rings": 3,
+        "cx_logd": "2.69",
+        "cx_logp": "3.63",
+        "cx_most_apka": "6.48",
+        "cx_most_bpka": null,
+        "full_molformula": "C17H12ClN3O3",
+        "full_mwt": "341.75",
+        "hba": 5,
+        "hba_lipinski": 6,
+        "hbd": 1,
+        "hbd_lipinski": 1,
+        "heavy_atoms": 24,
+        "molecular_species": "ACID",
+        "mw_freebase": "341.75",
+        "mw_monoisotopic": "341.0567",
+        "np_likeness_score": "-1.56",
+        "num_lipinski_ro5_violations": 0,
+        "num_ro5_violations": 0,
+        "psa": "84.82",
+        "qed_weighted": "0.74",
+        "ro3_pass": "N",
+        "rtb": 3
+    }
+}
